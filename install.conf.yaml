@@ -6,6 +6,9 @@
 
 - link:
     ~/.dotfiles: ''
+    ~/.shell: shell    
+    ~/.bash: bash
+    ~/.bashrc: bashrc
     ~/.tmux.conf: tmux.conf
     ~/.vim: vim
     ~/.vimrc: vimrc
